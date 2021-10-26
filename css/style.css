@@ -1,0 +1,10 @@
+form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+}
+
+.form-control-sm {
+  border: 1.5px solid steelblue;
+}
