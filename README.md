@@ -19,5 +19,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[CSS](https://www.w3schools.com/css/)**
 
 
+#### **Utilitários**
 
-
+- **Link do Video: [Upload FÁCIL de Arquivos com PHP | Tutorial Rápido & Prático](https://www.youtube.com/watch?v=P9TEc9I8IlI&t=1s&ab_channel=DankiCode)**
+- **Icone Do PHP: [Repositorio devicons/devicon](https://github.com/devicons/devicon/tree/master/icons)**
+- **Editor: [Visual Studio Code](https://code.visualstudio.com/)**
+- **Markdown: [Markdown Guide](https://www.markdownguide.org/basic-syntax/)**
+- **Emoji Markdown: [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)**
